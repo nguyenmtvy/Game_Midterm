@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: cdee6140568955549b8d6295ebc44e71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6656221004617211303
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_0
+  - first:
+      213: 6936780510621676045
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_1
+  - first:
+      213: 7285267175926460520
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_2
+  - first:
+      213: -3380833865129814832
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_3
+  - first:
+      213: -1245677105650700332
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_4
+  - first:
+      213: -5404741705618112491
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_5
+  - first:
+      213: -4665831405077704990
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_6
+  - first:
+      213: -3713291041125901331
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_7
+  - first:
+      213: 4990414813154943796
+    second: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 412
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72502cbc8344d0e44ba06029f3a2ab20
+      internalID: 6656221004617211303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 405
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08990451bbdd3645a15bf7874146698
+      internalID: 6936780510621676045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 398
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8002588439b17d4a8be146cb6a5ca7e
+      internalID: 7285267175926460520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 265
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b1dd3510f6764f8bcc4a1d5e7ae52
+      internalID: -3380833865129814832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 261
+        width: 189
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe207343dcf2744940bef91e6fa6ca
+      internalID: -1245677105650700332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 257
+        width: 202
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776e9ec33aca8240b13f2fbbc6819b4
+      internalID: -5404741705618112491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 232
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e9ecde18906f489e3ccde4ca69211
+      internalID: -4665831405077704990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 234
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2772c6be5167f46be17768fb073fc6
+      internalID: -3713291041125901331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kissclipart-explosion-animation-sprite-clipart-sprite-animatio-ad05ac9ef4ee6ef4_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 231
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac00d9afc408b44bb89f962131a7e1e
+      internalID: 4990414813154943796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
